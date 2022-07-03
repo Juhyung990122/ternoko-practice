@@ -1,5 +1,6 @@
 package com.example.preternoko.domain;
 
+import com.example.preternoko.domain.interview.Interview;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 

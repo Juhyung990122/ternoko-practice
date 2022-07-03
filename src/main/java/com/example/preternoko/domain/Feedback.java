@@ -1,10 +1,11 @@
 package com.example.preternoko.domain;
 
+import com.example.preternoko.domain.form.FormItems;
+import com.example.preternoko.domain.interview.Interview;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
-import java.util.List;
 
 @Entity
 @NoArgsConstructor

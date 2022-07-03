@@ -1,4 +1,4 @@
-package com.example.preternoko.domain;
+package com.example.preternoko.domain.user;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

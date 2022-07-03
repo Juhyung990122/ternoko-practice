@@ -1,5 +1,6 @@
-package com.example.preternoko.domain;
+package com.example.preternoko.domain.user;
 
+import com.example.preternoko.domain.user.User;
 import lombok.Getter;
 
 import javax.persistence.Embeddable;

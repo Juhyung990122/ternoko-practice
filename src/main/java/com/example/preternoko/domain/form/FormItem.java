@@ -1,4 +1,4 @@
-package com.example.preternoko.domain;
+package com.example.preternoko.domain.form;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;

@@ -1,10 +1,13 @@
-package com.example.preternoko.domain;
+package com.example.preternoko.domain.interview;
 
+import com.example.preternoko.domain.Feedback;
+import com.example.preternoko.domain.Reservation;
+import com.example.preternoko.domain.form.FormItems;
+import com.example.preternoko.domain.user.Users;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
-import java.util.List;
 
 @Entity
 @NoArgsConstructor
